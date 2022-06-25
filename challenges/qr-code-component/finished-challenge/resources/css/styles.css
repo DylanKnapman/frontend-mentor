@@ -20,6 +20,7 @@ img {
 .card {
   background-color: var(--white);
   border-radius: 1rem;
+  box-shadow: 20px 20px 50px 1px hsla(218, 44%, 22%, 20%);
   margin: 152px auto;
   max-width: 18.3125rem;
   padding: 0.8rem;
