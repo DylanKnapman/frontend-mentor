@@ -39,6 +39,5 @@ img {
 
 .instructions {
   color: var(--gray-blue);
-  font-size: .9375rem;
-  padding: 0.5rem 1rem;
+  padding: .3125rem 1rem;
 }
