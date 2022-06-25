@@ -40,5 +40,6 @@ img {
 
 .instructions {
   color: var(--gray-blue);
+  margin: .3125rem;
   padding: .3125rem 1rem;
 }
